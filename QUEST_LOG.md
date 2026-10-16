@@ -6,3 +6,4 @@
 - Co-authored PR #7 completado con éxito
 - Co-authored PR #8 completado con éxito
 - Co-authored PR #9 completado con éxito
+- Co-authored PR #10 completado con éxito
